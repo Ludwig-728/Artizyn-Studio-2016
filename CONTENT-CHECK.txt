@@ -1,0 +1,24 @@
+ARTIZYN FINAL WEBSITE INTEGRATION CHECK
+Source: https://koala-js0qb4.my.canva.site/
+
+Whitespace, line wraps and duplicate responsive copies are normalised.
+Canva platform controls, policies and playback counters are excluded.
+
+index.html: checked 20 final source phrases
+faqs.html: checked 34 final source phrases
+about.html: checked 24 final source phrases
+portfolio.html: checked 29 final source phrases
+team.html: checked 18 final source phrases
+contact.html: checked 14 final source phrases
+
+Total: 139 final source phrases checked.
+Missing or changed final source phrases: 0.
+Local page/asset links and anchors: all valid.
+Original FAQs map iframe URL: exact match, including original place ID and provider key.
+All 12 earlier illustrative project profiles remain in place.
+
+The final Canva form blocks external embeds. Its Name, Email and Message fields use the existing email-draft workflow. No message was sent.
+Responsive checks: all 9 pages fit the tested 375px content viewport without horizontal overflow.
+FAQ draft preparation, mobile menu, Portfolio navigation and home Get started destination verified in browser.
+Map visually matches the original location, marker and zoom.
+All 4 video files probed and play muted through native controls.
